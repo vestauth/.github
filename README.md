@@ -1,7 +1,6 @@
 # vestauth
 
-auth for agents  
-from the creator of [`dotenv`](https://github.com/motdotla/dotenv) and [`dotenvx`](https://github.com/dotenvx/dotenvx)
+auth for agents–from the creator of [`dotenv`](https://github.com/motdotla/dotenv) and [`dotenvx`](https://github.com/dotenvx/dotenvx)
 
 [website](https://vestauth.com) · [repo](https://github.com/vestauth/vestauth) · [docs](https://vestauth.com/docs)
 
